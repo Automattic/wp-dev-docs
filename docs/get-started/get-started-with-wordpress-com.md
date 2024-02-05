@@ -1,7 +1,5 @@
 ---
-category_title: Getting Started
-category_slug: getting-started
-post_title: Getting started with Wordpress.com
+post_title: Get started with Wordpress.com
 ---
 
 Wordpress.com offers managed hosting, which helps optimize your website for speed, security, and performance. Managed hosting takes care of many technical aspects of your site for you. WordPress.com has many plans with increasingly powerful features for different site types and budgets.
