@@ -2,20 +2,12 @@
 post_title: Get started with Wordpress.com
 ---
 
-Wordpress.com offers managed hosting, which helps optimize your website for speed, security, and performance. Managed hosting takes care of many technical aspects of your site for you. WordPress.com has many plans with increasingly powerful features for different site types and budgets.
+Wordpress.com's managed hosting helps optimize your website for speed, security, and performance while taking care of many of the technical aspects of site management. Depending on your needs, you'll find a [range of plans](https://wordpress.com/pricing/) with increasingly powerful features designed to support every site type and budget.
 
-Wordpress.com provides the tools, workflows, and infrastructure you need to build and deploy your website faster. Our platform supports importing existing Wordpress installations, and it has globally distributed, secure infrastucture for serving content from data centers near the user for optimal performance.
+You'll also find the tools, workflows, and infrastructure you need to build and deploy your website faster — from automated imports of existing Wordpress installations to a secure, globally distributed, performance-optimized CDN serving content from the nearest data centers to site vistitors.
 
-While working on a site, Wordpress.com provides tools for collaboration on your project such as staging sites, coming soon mode, and real-time backups.
+Collaboration and iteration on your project are further supported with tools from staging sites and a 'coming soon' mode to real-time backups and one-click restores.
 
 ## Before you begin
 
-To get started, create an account on Wordpress.com.
-
-### [Sign up](https://wordpress.com/start)
-
-If you've never used Wordpress.com before, sign up for a new account
-
-### [Log in](https://wordpress.com/log-in)
-
-If you already have a account, log in to get started
+You'll need to [sign up](https://wordpress.com/start) for a new WordPress.com account or [log in](https://wordpress.com/log-in) to an existing account.
