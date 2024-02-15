@@ -11,6 +11,7 @@
   - [phpMyAdmin](developer-tools/phpmyadmin.md)
   - [Web Server Settings](developer-tools)
 - [Platform Features](platform-features/)
+  - Domain Management
   - [Real Time Backup](platform-features/backup.md)
   - [Storage](platform-features/storage.md)
   - Sitemap
