@@ -6,5 +6,4 @@ WordPress.com offers a comprehensive set of platform features designed to empowe
 - [Real Time Backup](backup.md)
 - [Storage](storage.md)
 - [Jetpack Scan](jetpack-scan.md)
-- [Sites Dashboard](sites-dashboard.md)
 - [Account Security](account-security.md)

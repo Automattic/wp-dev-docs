@@ -20,7 +20,6 @@
   - [Storage](platform-features/storage.md)
   - [Sitemap](platform-features/sitemap.md)
   - [Jetpack Scan](platform-features/jetpack-scan.md)
-  - [Sites Dashboard](platform-features/sites-dashboard.md)
   - [Account Security](platform-features/account-security.md)
 - Troubleshooting
   - [Monitoring](troubleshooting/monitoring.md)
