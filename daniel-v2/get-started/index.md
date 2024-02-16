@@ -1,3 +1,8 @@
+---
+Google doc: https://docs.google.com/document/d/1wI3NcsIMxuFGxS5AK_nc_Uts8KZ7kEm0dgp7l-iaDUA/edit#heading=h.54oijtp9vyq2
+---
+
+
 # Get Started
 
 ## Create an Account
@@ -10,9 +15,6 @@ After adding your email, you will receive a confirmation email to activate your 
 
 Next, you have the option to choose your domain. This step is optional, and if you prefer, you can select `Choose my domain later`.
 
-In the following step, you can select a plan. You don't need to decide now, you have the option to start with a Free plan
-or [Start with a Free Trial](https://wordpress.com/setup/new-hosted-site) that includes all the features of the `Creator` plan.
+In the following step, you can select a plan. You don't need to decide now, you have the option to start with a Free plan or [Start with a Free Trial](https://wordpress.com/setup/new-hosted-site) that includes all the features of the `Creator` plan.
 
-Following that, you can select your goals. This step is optional and can be completed later. If you 
-choose to `Skip to dashboard`, you will see your newly created site on the WordPress dashboard 
-with a name based on your username.
+Following that, you can select your goals. This step is optional and can be completed later. If you choose to `Skip to dashboard`, you will see your newly created site on the WordPress dashboard with a name based on your username.
