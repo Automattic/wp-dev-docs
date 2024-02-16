@@ -18,8 +18,8 @@
   - ✅ [Web Server Settings](https://wpdeveloperstaging.wordpress.com/docs/developer-tools/web-server-settings/)
   - [REST API](https://developer.wordpress.com/docs/api/)
 - Site Performance
-  - Site Accelerator CDN
-  - Global Edge Cache
+  - ✅ [Site Accelerator CDN](https://wpdeveloperstaging.wordpress.com/docs/site-performance/site-accelerator-cdn/)
+  - ✅ [Global Edge Cache](https://wpdeveloperstaging.wordpress.com/docs/site-performance/global-edge-cache/)
 - [Platform Features](platform-features/)
   - [Domain Management](platform-features/domain-management.md)
   - [Real Time Backup](platform-features/backup.md)
