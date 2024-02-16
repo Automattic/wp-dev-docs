@@ -12,7 +12,7 @@
 - ✅ [Support](https://wpdeveloperstaging.wordpress.com/docs/support/)
 - [Developer Tools](developer-tools/)
   - ✅ [Staging Sites](https://wpdeveloperstaging.wordpress.com/docs/developer-tools/staging-sites/)
-  - [WP-CLI](developer-tools/wp-cli.md)
+  - ✅ [WP-CLI](https://wpdeveloperstaging.wordpress.com/docs/developer-tools/wp-cli/)
   - [SSH/SFTP](developer-tools/ssh-sftp.md)
   - [Database Access](developer-tools/database-access.md)
   - [Web Server Settings](developer-tools/web-server-settings.md)
