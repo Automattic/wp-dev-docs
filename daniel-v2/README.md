@@ -3,6 +3,12 @@
 ## Sitemap
 
 - [Get Started](get-started/)
+  - Are you building a new site or migrating an existing site? (build-migrate/)
+      - Build a New Site (build-new/)
+      - Migrating an Existing Site (migrate-existing/)
+  - Add Additional Users (add-users/)
+  - Map a Domain (map-domain/)
+  - Launch (launch/)
 - [Support](support/)
 - [Developer Tools](developer-tools/)
   - [Staging Sites](developer-tools/staging-sites.md)
