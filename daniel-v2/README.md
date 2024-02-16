@@ -2,7 +2,7 @@
 
 ## Sitemap
 
-- Get Started
+- [Get Started](get-started/)
 - Support
 - [Developer Tools](developer-tools/)
   - [Staging Sites](developer-tools/staging-sites.md)
@@ -10,6 +10,9 @@
   - [SSH/SFTP](developer-tools/ssh-sftp.md)
   - [phpMyAdmin](developer-tools/phpmyadmin.md)
   - [Web Server Settings](developer-tools/web-server-settings.md)
+- Site Performance
+  - Site Accelerator CDN
+  - Global Edge Cache
 - [Platform Features](platform-features/)
   - [Domain Management](platform-features/domain-management.md)
   - [Real Time Backup](platform-features/backup.md)
@@ -18,9 +21,6 @@
   - [Jetpack Scan](platform-features/jetpack-scan.md)
   - [Sites Dashboard](platform-features/sites-dashboard.md)
   - [Account Security](platform-features/account-security.md)
-- Site Performance
-  - Site Accelerator CDN
-  - Global Edge Cache
 - Troubleshooting
   - [Monitoring](troubleshooting/monitoring.md)
   - [Debugging](troubleshooting/debugging.md)
