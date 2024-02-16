@@ -3,13 +3,14 @@
 ## Sitemap
 
 - [Get Started](get-started/)
-- Support
+- [Support](support/)
 - [Developer Tools](developer-tools/)
   - [Staging Sites](developer-tools/staging-sites.md)
   - [WP-CLI](developer-tools/wp-cli.md)
   - [SSH/SFTP](developer-tools/ssh-sftp.md)
-  - [phpMyAdmin](developer-tools/phpmyadmin.md)
+  - [Database Access](developer-tools/database-access.md)
   - [Web Server Settings](developer-tools/web-server-settings.md)
+  - [REST API](https://developer.wordpress.com/docs/api/)
 - Site Performance
   - Site Accelerator CDN
   - Global Edge Cache
