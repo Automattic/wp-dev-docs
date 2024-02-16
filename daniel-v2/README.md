@@ -11,7 +11,7 @@
   - Launch (launch/)
 - ✅ [Support](https://wpdeveloperstaging.wordpress.com/docs/support/)
 - [Developer Tools](developer-tools/)
-  - [Staging Sites](developer-tools/staging-sites.md)
+  - ✅ [Staging Sites](https://wpdeveloperstaging.wordpress.com/docs/developer-tools/staging-sites/)
   - [WP-CLI](developer-tools/wp-cli.md)
   - [SSH/SFTP](developer-tools/ssh-sftp.md)
   - [Database Access](developer-tools/database-access.md)
