@@ -13,7 +13,7 @@
 - [Developer Tools](developer-tools/)
   - ✅ [Staging Sites](https://wpdeveloperstaging.wordpress.com/docs/developer-tools/staging-sites/)
   - ✅ [WP-CLI](https://wpdeveloperstaging.wordpress.com/docs/developer-tools/wp-cli/)
-  - [SSH/SFTP](developer-tools/ssh-sftp.md)
+  - ✅ [SSH/SFTP](https://wpdeveloperstaging.wordpress.com/docs/developer-tools/ssh-sftp/)
   - [Database Access](developer-tools/database-access.md)
   - [Web Server Settings](developer-tools/web-server-settings.md)
   - [REST API](https://developer.wordpress.com/docs/api/)
