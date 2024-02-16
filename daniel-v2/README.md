@@ -9,7 +9,7 @@
   - Add Additional Users (add-users/)
   - Map a Domain (map-domain/)
   - Launch (launch/)
-- [Support](support/)
+- ✅ [Support](https://wpdeveloperstaging.wordpress.com/docs/support/)
 - [Developer Tools](developer-tools/)
   - [Staging Sites](developer-tools/staging-sites.md)
   - [WP-CLI](developer-tools/wp-cli.md)
@@ -31,3 +31,6 @@
   - [Monitoring](troubleshooting/monitoring.md)
   - [Debugging](troubleshooting/debugging.md)
   - [Jetpack Activity Log](troubleshooting/jetpack-activity-log.md)
+
+
+✅ Content is live and ready to review on staging
