@@ -14,7 +14,7 @@
   - ✅ [Staging Sites](https://wpdeveloperstaging.wordpress.com/docs/developer-tools/staging-sites/)
   - ✅ [WP-CLI](https://wpdeveloperstaging.wordpress.com/docs/developer-tools/wp-cli/)
   - ✅ [SSH/SFTP](https://wpdeveloperstaging.wordpress.com/docs/developer-tools/ssh-sftp/)
-  - [Database Access](developer-tools/database-access.md)
+  - ✅ [Database Access](https://wpdeveloperstaging.wordpress.com/docs/developer-tools/database-access/)
   - ✅ [Web Server Settings](https://wpdeveloperstaging.wordpress.com/docs/developer-tools/web-server-settings/)
   - [REST API](https://developer.wordpress.com/docs/api/)
 - Site Performance
