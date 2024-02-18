@@ -28,9 +28,9 @@
   - ✅ [Jetpack Scan](https://wpdeveloperstaging.wordpress.com/docs/platform-features/jetpack-scan/)
   - ✅ [Account Security](https://wpdeveloperstaging.wordpress.com/docs/platform-features/account-security/)
 - Troubleshooting
-  - [Monitoring](troubleshooting/monitoring.md)
+  - ✅ [Monitoring](https://wpdeveloperstaging.wordpress.com/docs/troubleshooting/monitoring/)
   - ✅ [Debugging](https://wpdeveloperstaging.wordpress.com/docs/troubleshooting/debugging/)
-  - [Jetpack Activity Log](troubleshooting/jetpack-activity-log.md)
+  - ✅ [Jetpack Activity Log](https://wpdeveloperstaging.wordpress.com/docs/troubleshooting/jetpack-activity-log/)
 
 
 ✅ Content is live and ready to review on staging
