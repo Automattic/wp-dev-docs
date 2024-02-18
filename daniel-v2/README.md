@@ -29,7 +29,7 @@
   - ✅ [Account Security](https://wpdeveloperstaging.wordpress.com/docs/platform-features/account-security/)
 - Troubleshooting
   - [Monitoring](troubleshooting/monitoring.md)
-  - [Debugging](troubleshooting/debugging.md)
+  - ✅ [Debugging](https://wpdeveloperstaging.wordpress.com/docs/troubleshooting/debugging/)
   - [Jetpack Activity Log](troubleshooting/jetpack-activity-log.md)
 
 
