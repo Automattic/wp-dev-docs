@@ -4,10 +4,10 @@
 
 - ✅ [Get Started](https://wpdeveloperstaging.wordpress.com/wp-admin/post.php?post=48&action=edit)
   - ✅ [Build New or Migrate](https://wpdeveloperstaging.wordpress.com/docs/get-started/build-migrate/)
-      - [Build a New Site](get-started/building-new-site.md)
+      - ✅ [Build a New Site](https://wpdeveloperstaging.wordpress.com/docs/get-started/build-migrate/build-new/)
       - [Migrate an Existing Site](get-started/migrating-site.md)
   - [Add Additional Users](get-started/add-users.md)
-  - [Map a Domain](get-started/map-domain.md)
+  - ✅ [Map a Domain](https://wpdeveloperstaging.wordpress.com/docs/get-started/map-domain/)
   - [Launch](get-started/launch.md)
 - ✅ [Support](https://wpdeveloperstaging.wordpress.com/docs/support/)
 - [Developer Tools](developer-tools/)
