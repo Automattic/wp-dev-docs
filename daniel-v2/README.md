@@ -8,7 +8,7 @@
       - [Migrate an Existing Site](get-started/migrating-site.md)
   - [Add Additional Users](get-started/add-users.md)
   - ✅ [Map a Domain](https://wpdeveloperstaging.wordpress.com/docs/get-started/map-domain/)
-  - [Launch](get-started/launch.md)
+  - ✅ [Launch](https://wpdeveloperstaging.wordpress.com/docs/get-started/launch/)
 - ✅ [Support](https://wpdeveloperstaging.wordpress.com/docs/support/)
 - [Developer Tools](developer-tools/)
   - ✅ [Staging Sites](https://wpdeveloperstaging.wordpress.com/docs/developer-tools/staging-sites/)
