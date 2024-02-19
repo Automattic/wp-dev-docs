@@ -3,12 +3,12 @@
 ## Sitemap
 
 - [Get Started](get-started/)
-  - Are you building a new site or migrating an existing site? (build-migrate/)
-      - Build a New Site (build-new/)
-      - Migrate an Existing Site (migrate-existing/)
-  - Add Additional Users (add-users/)
-  - Map a Domain (map-domain/)
-  - Launch (launch/)
+  - [Are you building a new site or migrating an existing site?](get-started/building-or-migrating.md)
+      - [Build a New Site](get-started/building-new-site.md)
+      - [Migrate an Existing Site](get-started/migrating-site.md)
+  - [Add Additional Users](get-started/add-users.md)
+  - [Map a Domain](get-started/map-domain.md)
+  - [Launch](get-started/launch.md)
 - ✅ [Support](https://wpdeveloperstaging.wordpress.com/docs/support/)
 - [Developer Tools](developer-tools/)
   - ✅ [Staging Sites](https://wpdeveloperstaging.wordpress.com/docs/developer-tools/staging-sites/)
