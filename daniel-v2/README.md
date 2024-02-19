@@ -3,7 +3,7 @@
 ## Sitemap
 
 - ✅ [Get Started](https://wpdeveloperstaging.wordpress.com/wp-admin/post.php?post=48&action=edit)
-  - [Are you building a new site or migrating an existing site?](get-started/building-or-migrating.md)
+  - ✅ [Build New or Migrate](https://wpdeveloperstaging.wordpress.com/docs/get-started/build-migrate/)
       - [Build a New Site](get-started/building-new-site.md)
       - [Migrate an Existing Site](get-started/migrating-site.md)
   - [Add Additional Users](get-started/add-users.md)
