@@ -1,3 +1,7 @@
+---
+Google doc: https://docs.google.com/document/d/1wI3NcsIMxuFGxS5AK_nc_Uts8KZ7kEm0dgp7l-iaDUA/edit
+---
+
 # Get Started
 
 This Getting Started guide should be written for a developer who is either:
