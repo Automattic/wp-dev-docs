@@ -5,7 +5,7 @@
 - ✅ [Get Started](https://wpdeveloperstaging.wordpress.com/wp-admin/post.php?post=48&action=edit)
   - ✅ [Build New or Migrate](https://wpdeveloperstaging.wordpress.com/docs/get-started/build-migrate/)
       - ✅ [Build a New Site](https://wpdeveloperstaging.wordpress.com/docs/get-started/build-migrate/build-new/)
-      - [Migrate an Existing Site](get-started/migrating-site.md)
+      - ✅ [Migrate an Existing Site](https://wpdeveloperstaging.wordpress.com/docs/get-started/build-migrate/migrate-existing/)
   - [Add Additional Users](get-started/add-users.md)
   - ✅ [Map a Domain](https://wpdeveloperstaging.wordpress.com/docs/get-started/map-domain/)
   - ✅ [Launch](https://wpdeveloperstaging.wordpress.com/docs/get-started/launch/)
