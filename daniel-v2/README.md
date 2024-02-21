@@ -6,7 +6,7 @@
   - ✅✨ [Build New or Migrate](https://wpdeveloperstaging.wordpress.com/docs/get-started/build-migrate/)
       - ✅✨ [Build a New Site](https://wpdeveloperstaging.wordpress.com/docs/get-started/build-migrate/build-new/)
       - ✅✨ [Migrate an Existing Site](https://wpdeveloperstaging.wordpress.com/docs/get-started/build-migrate/migrate-existing/)
-  - [Add Additional Users](get-started/add-users.md)
+  - ✨[Add Additional Users](https://wpdeveloperstaging.wordpress.com/docs/get-started/add-users/)
   - ✅✨ [Map a Domain](https://wpdeveloperstaging.wordpress.com/docs/get-started/map-domain/)
   - ✅✨ [Launch](https://wpdeveloperstaging.wordpress.com/docs/get-started/launch/)
 - ✅✨ [Support](https://wpdeveloperstaging.wordpress.com/docs/support/)
@@ -34,4 +34,5 @@
 
 
 ✅ Content is live and ready to review on staging
+
 ✨ Content is polished by Donal.
