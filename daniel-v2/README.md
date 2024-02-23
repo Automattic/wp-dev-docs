@@ -16,6 +16,7 @@
   - ✅✨ [SSH/SFTP](https://wpdeveloperstaging.wordpress.com/docs/developer-tools/ssh-sftp/)
   - ✅✨ [Database Access](https://wpdeveloperstaging.wordpress.com/docs/developer-tools/database-access/)
   - ✅✨ [Web Server Settings](https://wpdeveloperstaging.wordpress.com/docs/developer-tools/web-server-settings/)
+  - 🚧 GitHub deployments
   - [REST API](https://developer.wordpress.com/docs/api/)
 - Site Performance
   - ✅✨ [Site Accelerator CDN](https://wpdeveloperstaging.wordpress.com/docs/site-performance/site-accelerator-cdn/)
