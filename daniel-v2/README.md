@@ -32,14 +32,12 @@
   - 🚧 [Distributed Denial of Service (DDOS) and Web Application Firewall (WAF) protection](https://github.com/Automattic/dotcom-content/issues/219)
   - 🚧 [Jetpack Search](https://github.com/Automattic/dotcom-content/issues/220)
   - 🚧 [Akismet Anti-Spam](https://github.com/Automattic/dotcom-content/issues/221)
-  - 🚧 [Jetpack SEO Tools](https://github.com/Automattic/dotcom-content/issues/222)
   - 🚧 [Cloudflare Integration](https://github.com/Automattic/dotcom-content/issues/223)
   - 🚧 [Jetpack High-Level Walkthrough](https://github.com/Automattic/dotcom-content/issues/225)
 - Troubleshooting
   - ✅✨ [Monitoring](https://wpdeveloperstaging.wordpress.com/docs/troubleshooting/monitoring/)
   - ✅✨ [Debugging](https://wpdeveloperstaging.wordpress.com/docs/troubleshooting/debugging/)
   - ✅✨ [Jetpack Activity Log](https://wpdeveloperstaging.wordpress.com/docs/troubleshooting/jetpack-activity-log/)
-  - 🚧 [Resolve Jetpack Errors](https://github.com/Automattic/dotcom-content/issues/224)
 
 
 ✅ Content is live and ready to review on staging
